@@ -1,0 +1,38 @@
+[
+    {
+        "imgUrl": "../../src/assets/img/currency/list01.png",
+        "text": "秦上币",
+        "alt": "秦上币",
+        "id": 1
+    },
+    {
+        "imgUrl": "./src/assets/img/currency/list02.png",
+        "text": "秦下币",
+        "alt": "秦下币",
+        "id": 2
+    },
+    {
+        "imgUrl": "./src/assets/img/currency/list03.png",
+        "text": "三公斤钱",
+        "alt": "三公斤钱",
+        "id": 3
+    },
+    {
+        "imgUrl": "./src/assets/img/currency/list04.png",
+        "text": "四公斤钱",
+        "alt": "四公斤钱",
+        "id": 4
+    },
+    {
+        "imgUrl": "./src/assets/img/currency/list05.png",
+        "text": "五公斤钱",
+        "alt": "五公斤钱",
+        "id": 5
+    },
+    {
+        "imgUrl": "./src/assets/img/currency/list06.png",
+        "text": "铁钱",
+        "alt": "铁钱",
+        "id": 6
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "url": "../img/greatwall/qin01.png",
+        "audioUrl": "../audioSource/greatwall/qinchangcheng.mp3",
+        "title": "秦长城",
+        "width": 356,
+        "height": 271
+    },
+    {
+        "id": 2,
+        "url": "../img/greatwall/han01.jpg",
+        "audioUrl": "../audioSource/greatwall/hanchangcheng.mp3",
+        "title": "汉长城",
+        "width": 356,
+        "height": 271
+    }
+]

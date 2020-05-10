@@ -1,0 +1,50 @@
+[
+    {
+        "img": "../img/currency/shangbi01.png",
+        "audioUrl": "../audioSource/currency/qinshangbi.mp3",
+        "tag": "shangbi",
+        "width": "200",
+        "height": "180",
+        "describe": "在秦朝，六国为本币制一律废除，规定国家货币为二等，即黄金为上币，称为秦上币，单位“镒”（合20两），标志着货币种类的统一。"
+    },
+    {
+        "img": "../img/currency/xiabi01.jpg",
+        "audioUrl": "../audioSource/currency/qinxiabi.mp3",
+        "tag": "xiabi",
+        "width": "200",
+        "height": "180",
+        "describe": "铜为下币，单位“半两”。半两钱在战国秦即已铸行，初为国钱，旋即转换方孔圆钱。秦统一以后，将半两钱投入全国。自此，方孔圆钱这种货币形制一直沿用了两千余年。在咸阳秦宫遗址西南的长陵车站，出土藏藏半两钱460余枚。其中3.5厘米的大型半两钱330枚，钱重均在8克左右，完全符合标准半两钱的特征。"
+    },
+    {
+        "img": "../img/currency/sanzhu01.jpg",
+        "audioUrl": "../audioSource/currency/sanzhuqian.mp3",
+        "tag": "sanzhu",
+        "width": "200",
+        "height": "180",
+        "describe": "三吨钱铸于汉武帝建元元年（公元前140年）。上有“三窑”二字，故名。汉武帝时三吨钱重铸一年，武帝又令停铸三吨，建元五年停铸。"
+    },
+    {
+        "img": "../img/currency/sizhu02.jpg",
+        "audioUrl": "../audioSource/currency/sizhuqian.mp3",
+        "tag": "sizhu",
+        "width": "200",
+        "height": "180",
+        "describe": "在秦朝，六国为本币制一律废除，规定国家货币为二等，即黄金为上币，称为秦上币，单位“镒”（合20两），标志着货币种类的统一。"
+    },
+    {
+        "img": "../img/currency/wuzhu01.jpg",
+        "audioUrl": "../audioSource/currency/wuzhuqian.mp3",
+        "tag": "wuzhu",
+        "width": "200",
+        "height": "180",
+        "describe": "汉高帝于元鼎四年（前113年）下令禁止郡国铸钱，把各地私铸的钱币运到京师中央政府成立专门的铸币机构，即由水衡都尉的属官（钟官，辨铜，技巧三官）负责铸钱。钟官负责铸造，辨别铜负责审查面文“五铢”二字的钱最初铸于汉武帝元罚款五年（公元前118年），重如其文，被称为五铢钱。"
+    },
+    {
+        "img": "../img/currency/tieqian02.jpg",
+        "audioUrl": "../audioSource/currency/tieqian.mp3",
+        "tag": "tieqian",
+        "width": "200",
+        "height": "180",
+        "describe": "自汉至民国初的两千余年中，中国铸行铁钱的时间断断续续大约有五，六百年左右。在不同的时期不同的地区，铁钱的流通，较青铜及其他货币更能反映当时社会经济的发展状况及商品货币的关系，更能反映诸行用铁钱的封建政权对币制的转变给社会政治，经济造成的巨大影响。说来，铁钱以青铜铸币主要币的中国封建社会货币与商品经济的相对相对尖锐化时期的产出。但不同的时期，铁钱产生的原因，亦有其特殊性。如汉代产生铁钱的直接原因是私铸谋利。"
+    }
+]
