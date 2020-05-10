@@ -31,9 +31,9 @@
 </template>
 
 <script>
-    import FooterBar from '@/components/FooterBar'
+    import FooterBar from "@/components/FooterBar"
     export default {
-        name: 'index',
+        name: "index",
         components: {
             FooterBar
         },
@@ -47,7 +47,7 @@
                 this.$router.push(url)
             },
             handleQueryList() {
-                const url = './json/homeData.json'
+                const url = "./json/homeData.json"
                 this.$http.get(url).then((res) => {
                     this.blockList = res.data || []
                 })
@@ -66,7 +66,7 @@
         .home-top {
             width: 100%;
             height: 20%;
-            background: url('../../assets/img/home/view.png') no-repeat;
+            background: url("../../assets/img/home/view.png") no-repeat;
             background-size: 100% 100%;
         }
 
@@ -75,7 +75,7 @@
             box-sizing: border-box;
             width: 100%;
             height: 80%;
-            background: url('../../assets/img/home/ground.png') no-repeat;
+            background: url("../../assets/img/home/ground.png") no-repeat;
             background-size: 100% 100%;
             .content-top {
                 width: 100%;
