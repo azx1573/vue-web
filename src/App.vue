@@ -12,7 +12,11 @@
     body {
         width: 100%;
         height: 100%;
+<<<<<<< HEAD
         background: url("./assets/img/login/ground.png") no-repeat;
+=======
+        background: url('./assets/img/login/ground.png') no-repeat;
+>>>>>>> b653fd8dc6fb0a84a017772ab3714f09251e947c
         background-size: 100% 100%;
     }
     #app {
