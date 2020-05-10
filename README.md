@@ -1,4 +1,16 @@
-# vue-web
-#1 cnpm install
-#2 npm run serve
-#3 npm run build
+# install dependencies
+
+npm install
+
+# serve with hot reload at localhost:8080
+
+npm run serve
+
+# build for production with minification
+
+npm run build
+
+# build for production and view the bundle analyzer report
+
+npm run build --report
+
