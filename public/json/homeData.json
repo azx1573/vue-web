@@ -1,0 +1,53 @@
+[
+    {
+        "name": [
+            {
+                "title": "货币",
+                "url": "/currency",
+                "icon": "grid-icon iconfont icon-qian",
+                "id": 1
+            },
+            {
+                "title": "文字",
+                "url": "/text",
+                "icon": "grid-icon iconfont icon-bianji",
+                "id": 2
+            }
+        ],
+        "id": 1
+    },
+    {
+        "name": [
+            {
+                "title": "疆域",
+                "url": "/domain",
+                "icon": "grid-icon iconfont icon-zhongguoditu",
+                "id": 3
+            },
+            {
+                "title": "长城",
+                "url": "/greatWall",
+                "icon": "grid-icon iconfont icon-02",
+                "id": 4
+            }
+        ],
+        "id": 2
+    },
+    {
+        "name": [
+            {
+                "title": "县制",
+                "url": "/country",
+                "icon": "grid-icon iconfont icon-xianqu",
+                "id": 5
+            },
+            {
+                "title": "官制",
+                "url": "/official",
+                "icon": "grid-icon iconfont icon-guanmao",
+                "id": 6
+            }
+        ],
+        "id": 3
+    }
+]

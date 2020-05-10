@@ -1,0 +1,51 @@
+[
+    {
+        "imgUrl": "../img/currency/list01.png",
+        "text": "秦上币",
+        "alt": "秦上币",
+        "url": "/listDetail",
+        "label": "shangbi",
+        "type": "currency",
+        "id": 1
+    },
+    {
+        "imgUrl": "../img/currency/list02.png",
+        "text": "秦下币",
+        "alt": "秦下币",
+        "url": "/listDetail",
+        "label": "xiabi",
+        "id": 2
+    },
+    {
+        "imgUrl": "../img/currency/list03.png",
+        "text": "三公斤钱",
+        "alt": "三公斤钱",
+        "url": "/listDetail",
+        "label": "sanzhu",
+        "id": 3
+    },
+    {
+        "imgUrl": "../img/currency/list04.png",
+        "text": "四公斤钱",
+        "alt": "四公斤钱",
+        "url": "/listDetail",
+        "label": "sizhu",
+        "id": 4
+    },
+    {
+        "imgUrl": "../img/currency/list05.png",
+        "text": "五公斤钱",
+        "alt": "五公斤钱",
+        "url": "/listDetail",
+        "label": "wuzhu",
+        "id": 5
+    },
+    {
+        "imgUrl": "../img/currency/list06.png",
+        "text": "铁钱",
+        "alt": "铁钱",
+        "url": "/listDetail",
+        "label": "tieqian",
+        "id": 6
+    }
+]
