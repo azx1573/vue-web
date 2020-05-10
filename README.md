@@ -1,2 +1,4 @@
 # vue-web
-移动端项目
+#1 cnpm install
+#2 npm run serve
+#3 npm run build
