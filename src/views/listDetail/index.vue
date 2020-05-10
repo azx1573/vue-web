@@ -2,14 +2,14 @@
     <detail-component :currentItem="currentItem"></detail-component>
 </template>
 
-<script>
-    import detailComponent from '@/components/DetailComponent'
-    export default {
-        data() {
-            return {
-                currentItem: {}
-            }
-        },
+<script lang="ts">
+    import { Component, Prop, Vue } from "vue-property-decorator"
+    import detailComponent from "@/components/DetailComponent"
+
+    @Component
+    export default class Index extends Vue {
+        currentItem: object{} = {}
+
         components: {
             detailComponent
         },
@@ -17,13 +17,13 @@
         methods: {
             handleQueryDetail(label) {
                 const type = this.$route.query.type
-                let url = ''
+                let url = ""
                 switch (type) {
-                    case 'text':
-                        url = './json/TextDetail.json'
+                    case "text":
+                        url = "./json/TextDetail.json"
                         break
-                    case 'currency':
-                        url = './json/currencyDetail.json'
+                    case "currency":
+                        url = "./json/currencyDetail.json"
                         break
                 }
 
